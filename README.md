@@ -23,8 +23,4 @@ I specialize in crafting scalable, impactful solutions — from quirky side proj
 <li>
   🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
 </li>
-<br>
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://64.media.tumblr.com/3c21fb353d5fcf56683416fb38d52c68/b85df222642e72e4-05/s500x750/9708d6014162761975631c4faa78b4b8a8d68564.gif" width="400px" height="400px">
-</div>

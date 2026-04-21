@@ -1,4 +1,4 @@
-### 👋 Hello there, I'm Rindang Bani
+### 👋 Hello there, I'm Rindang Bani Isyan
 I'm a Fullstack Engineer and Backend developer building high-impact websites, apps, and SaaS products — from personal projects to internship experiences.
 
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
